@@ -1,0 +1,4 @@
+npm start
+
+venv\Scripts\activate
+uvicorn main:app --reload
